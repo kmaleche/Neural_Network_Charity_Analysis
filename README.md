@@ -5,14 +5,14 @@ Explain the purpose of this analysis.
 
 ## Results: 
 
-### Data Preprocessing
+#### Data Preprocessing
     1. What variable(s) are considered the target(s) for your model?
         The target variable is 'IS-SUCCESSFUL', which denotes the success of the loan application.
     2. What variable(s) are considered to be the features for your model?
         Features for our model included: APPLICATION_TYPE', 'AFFILIATION' 'CLASSIFICATION', 'USE_CASE', 'ORGANIZATION','INCOME_AMT', 'SPECIAL_CONSIDERATIONS'
     3. What variable(s) are neither targets nor features, and should be removed from the input data?
         Non-beneficial ID columns 'EIN' and 'NAME' have been dropped.
-### Compiling, Training, and Evaluating the Model
+#### Compiling, Training, and Evaluating the Model
     1. How many neurons, layers, and activation functions did you select for your neural network model, and why?
         In optimizing the model, I increased the neurons to 8 and 
     2. Were you able to achieve the target model performance?
