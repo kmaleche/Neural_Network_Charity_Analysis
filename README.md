@@ -1,7 +1,9 @@
 # Neural_Network_Charity_Analysis
 
 ## Overview of the analysis: 
-Explain the purpose of this analysis.
+Using machine learning and neural networks to create a binary classifier that is capable of predicting whether loan applicants will be successful if funded by Alphabet Soup.
+
+    Dataset: CSV containing more than 34,000 organizations that have received funding from Alphabet Soup
 
 ## Results: 
 
